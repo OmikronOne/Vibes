@@ -1,5 +1,5 @@
 # Lucid Vibes
 
-[Cover](./Static/Cover.png)
+![Cover](./Static/Cover.png)
 
 ---
